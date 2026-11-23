@@ -39,3 +39,13 @@ Internship Project – Module 04
 Author
 
 Java Programming Intern
+
+Library-Management-System/
+│
+├── README.md
+├── schema.sql
+├── DatabaseConnection.java
+├── Book.java
+├── BookDAO.java
+├── LibraryManagement.java
+└── .gitignore
